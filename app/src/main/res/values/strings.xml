@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">P77S2120222GERH</string>
+    <string name="escuela">Tecnológico de Estudios Superiores Oriente del Estado de México</string>
+    <string name="alumna">Gloria Estefania Rodriguez Herrera</string>
+    <string name="grupo">7S21</string>
+    <string name="envio">Envio</string>
+    <string name="btnnativos">Nativos</string>
+    <string name="btnobjeto">Objetos</string>
+    <string name="titObj">Objeto</string>
+    <string name="btnregresa">Regresar</string>
+    <string name="lblobjeto">TextView</string>
+    <string name="titnat">Nativo</string>
+    <string name="lblnativo" />
+</resources>
